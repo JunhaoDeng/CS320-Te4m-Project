@@ -7,7 +7,7 @@ Team Leader: Kunj Dedhia
 
 Integration Liason: Thomas King
 
-Secretary: Junhao Deng(ID: JunhaoDeng)
+Secretary: Junhao Deng (ID: JunhaoDeng)
 
 Customer Liason: Albert Zhou
 
