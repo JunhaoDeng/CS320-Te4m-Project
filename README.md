@@ -9,5 +9,5 @@ Secretary: Junhao Deng
 
 Customer Liason: Albert Zhou
 
-Undefied: Naman Ranawat
+Undefied: Naman Ranawat and Simon Nathans
 					
