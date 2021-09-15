@@ -1,6 +1,6 @@
 # CS320-TE4M-Project
 
-# TE4M Members and Role
+# TE4M Members and Roles
 Team Leader: Kunj Dedhia
 
 Integration Liason: Thomas King
