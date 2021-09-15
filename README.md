@@ -1,7 +1,7 @@
 # CS320-TE4M-Project
 
 # TE4M Members and Roles
-Project Manager: Siri Pidatala(ID: spidatala20) 
+Project Manager: Siri Pidatala (ID: spidatala20) 
 
 Team Leader: Kunj Dedhia
 
