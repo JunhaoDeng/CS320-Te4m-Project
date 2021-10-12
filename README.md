@@ -1,6 +1,7 @@
 # CS320-TE4M-Project
 
-# TE4M Members and Roles
+## TE4M Members and Roles
+
 Project Manager: Siri Pidatala (ID: spidatala20) 
 
 Team Leader: Kunj Dedhia
@@ -12,4 +13,3 @@ Secretary: Junhao Deng (ID: JunhaoDeng)
 Customer Liason: Albert Zhou
 
 Undefied: Naman Ranawat and Simon Nathans
-					
