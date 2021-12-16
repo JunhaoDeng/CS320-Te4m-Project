@@ -12,4 +12,8 @@ Secretary: Junhao Deng (ID: JunhaoDeng)
 Customer Liason: Albert Zhou
 
 Undefied: Naman Ranawat and Simon Nathans
+
+
+-   [Omnicron](https://github.com/david-fisher/320-F21-Track-1/wiki/Team-Omnicron-Wiki)
+-   [dfd](https://github.com/david-fisher/320-F21-Track-1/wiki/Team-Omnicron-Wiki)
 					
