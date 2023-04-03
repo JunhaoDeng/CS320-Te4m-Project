@@ -7,6 +7,8 @@
 </Icon>
 </IconStyle>
 </Style>
+<Folder>
+<name>Cafe</name>
 <Placemark>
 <name>CTCS</name>
 <styleUrl>#z1</styleUrl>
@@ -21,6 +23,9 @@
 <coordinates>-118.2877156,34.0238783</coordinates>
 </Point>
 </Placemark>
+</Folder>
+<Folder>
+<name>Cafe</name>
 <Placemark>
 <name>BUAD</name>
 <styleUrl>#z1</styleUrl>
@@ -35,6 +40,9 @@
 <coordinates>-118.2853130,34.0187107</coordinates>
 </Point>
 </Placemark>
+</Folder>
+<Folder>
+<name>Cafe</name>
 <Placemark>
 <name>CRIT</name>
 <styleUrl>#z1</styleUrl>
@@ -49,6 +57,9 @@
 <coordinates>-118.2869920,34.0192949</coordinates>
 </Point>
 </Placemark>
+</Folder>
+<Folder>
+<name>Cafe</name>
 <Placemark>
 <name>EE</name>
 <styleUrl>#z1</styleUrl>
@@ -63,6 +74,9 @@
 <coordinates>-118.2892239,34.0213165</coordinates>
 </Point>
 </Placemark>
+</Folder>
+<Folder>
+<name>Cafe</name>
 <Placemark>
 <name>SWKC</name>
 <styleUrl>#z1</styleUrl>
@@ -77,6 +91,9 @@
 <coordinates>-118.2823545,34.0225495</coordinates>
 </Point>
 </Placemark>
+</Folder>
+<Folder>
+<name>Cafe</name>
 <Placemark>
 <name>ARTL</name>
 <styleUrl>#z1</styleUrl>
@@ -91,5 +108,6 @@
 <coordinates>-118.2859543,34.0229091</coordinates>
 </Point>
 </Placemark>
+</Folder>
 </Document>
 </kml>
