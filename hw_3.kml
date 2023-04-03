@@ -8,7 +8,9 @@
 </IconStyle>
 </Style>
 <Folder>
-<name>Cafe</name>
+<name>Schools</name>
+<Folder>
+<name>Cin_Art</name>
 <Placemark>
 <name>CTCS</name>
 <styleUrl>#z1</styleUrl>
@@ -25,7 +27,7 @@
 </Placemark>
 </Folder>
 <Folder>
-<name>Cafe</name>
+<name>Mar_Sch_Bus</name>
 <Placemark>
 <name>BUAD</name>
 <styleUrl>#z1</styleUrl>
@@ -42,7 +44,7 @@
 </Placemark>
 </Folder>
 <Folder>
-<name>Cafe</name>
+<name>Ros_Art_Des</name>
 <Placemark>
 <name>CRIT</name>
 <styleUrl>#z1</styleUrl>
@@ -59,7 +61,7 @@
 </Placemark>
 </Folder>
 <Folder>
-<name>Cafe</name>
+<name>Vit_Sch_Eng</name>
 <Placemark>
 <name>EE</name>
 <styleUrl>#z1</styleUrl>
@@ -76,7 +78,7 @@
 </Placemark>
 </Folder>
 <Folder>
-<name>Cafe</name>
+<name>Dwo_Scho_SW</name>
 <Placemark>
 <name>SWKC</name>
 <styleUrl>#z1</styleUrl>
@@ -93,7 +95,7 @@
 </Placemark>
 </Folder>
 <Folder>
-<name>Cafe</name>
+<name>Tho_Scho_Mus</name>
 <Placemark>
 <name>ARTL</name>
 <styleUrl>#z1</styleUrl>
@@ -108,6 +110,7 @@
 <coordinates>-118.2859543,34.0229091</coordinates>
 </Point>
 </Placemark>
+</Folder>
 </Folder>
 </Document>
 </kml>
